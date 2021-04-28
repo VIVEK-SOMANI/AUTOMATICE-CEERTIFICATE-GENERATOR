@@ -1,0 +1,8 @@
+1. Excel file must have First name as heading in the first column and Last name in the second column of the first row.
+2.Ceritificate must be in JPG format and it must be stored along with the excel file in the same folder.
+
+STEPS TO FOLLOW
+1.Enter the Event name and Event date accordingly.
+2.Browse files and select the excel file.
+3.Browse files and select the Certificate file according to your need.
+4.Click on Generate Certificates.
